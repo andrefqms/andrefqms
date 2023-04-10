@@ -24,8 +24,12 @@ Eu sou uma pessoa que estudou na UFCG e possuo familiaridade em HTML, CSS e Java
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andrefqms&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefqms&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <a href="https://github.com/andrefqms">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefqms&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefqms&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andrefqms&icon=5&color=4)](https://visitcount.itsvg.in)
