@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <p align="justify" > 
-Eu sou uma pessoa que estudou na UFCG e possuo familiaridade em HTML, CSS e JavaScript. Como uma entusiasta por tecnologia e programação, estou sempre buscando aprender e me desenvolver como profissional. Meu próximo objetivo é aprofundar meus conhecimentos em desenvolvimento web, especialmente no framework ReactJS, para criar soluções criativas e eficientes. Estou sempre aberto a novas oportunidades e desafios, e estou animado para fazer parte da comunidade de desenvolvimento web e contribuir para o seu crescimento.
+Eu sou uma pessoa que estudou na UFCG e possuo familiaridade em HTML, CSS e JavaScript. Como uma entusiasta por tecnologia e programação, estou sempre buscando aprender e me desenvolver como profissional. Meu próximo objetivo é aprofundar meus conhecimentos em analise de dados,  para criar soluções criativas e eficientes. Estou sempre aberto a novas oportunidades e desafios, e estou animado para fazer parte da comunidade de desenvolvimento web e contribuir para o seu crescimento.
 </p>
 
 
