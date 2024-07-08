@@ -11,7 +11,7 @@ Eu sou uma pessoa que estudou na UFCG e possuo familiaridade em HTML, CSS e Java
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andre-filipe-queiroz999/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-filipe-queiroz999/) 
 [![Letterboxd](https://img.shields.io/static/v1?style=for-the-badge&message=Letterboxd&color=222222&logo=Letterboxd&logoColor=00D735&label=)](https://letterboxd.com/andrefq99/)
 
 # 💻 Tech Stack:
