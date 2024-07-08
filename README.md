@@ -9,11 +9,6 @@ Eu sou uma pessoa que estudou na UFCG e possuo familiaridade em HTML, CSS e Java
 </p>
 
 
-#### Atualmente aprendendo (I’m currently learning)
-[![React][React.js]][React-url]
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andre-filipe-queiroz999/) 
